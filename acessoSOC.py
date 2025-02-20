@@ -10,6 +10,8 @@ import pyautogui
 import time
 import os
 from dotenv import load_dotenv
+
+ #testando alterar
  
 load_dotenv()
 url = 'https://sistema.soc.com.br/WebSoc/LoginAction.do#'
